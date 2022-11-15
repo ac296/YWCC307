@@ -1,9 +1,9 @@
-****************************
-LAZY FUNCTIONAL PROGRAMMING
-
-Adriana Coronel
-
 YWCC307
+****************************
+![Screen Shot 2022-11-14 at 11 23 47 PM](https://user-images.githubusercontent.com/77125578/201825884-bb4d9bac-052b-4a44-b128-b1ce3bf4778d.png)
+
+
+
 ****************************
   For my class presentation, I had to explain what was lazy functional programming. I began the presentation by explaining 
 what functional programming is and displayed an example of what functional programming is which is essentially 
